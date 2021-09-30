@@ -1,0 +1,51 @@
+com/example/tp3_mmm/SecondFragment.java
+ com.example.tp3_mmm.SecondFragment
+ com.example.tp3_mmm.SecondFragment$1
+ com.example.tp3_mmm.SecondFragment$2
+ com.example.tp3_mmm.SecondFragment$3
+com/example/tp3_mmm/BuildConfig.java
+ com.example.tp3_mmm.BuildConfig
+viewModel/ClientViewModel.java
+ viewModel.ClientViewModel
+com/example/tp3_mmm/DataBindingTriggerClass.java
+ com.example.tp3_mmm.DataBindingTriggerClass
+data/ClientList.java
+ data.ClientList
+data/ClientDao.java
+ data.ClientDao
+data/AppDataBase.java
+ data.AppDataBase
+ data.AppDataBase$1
+ data.AppDataBase$PopulateDbAsyncTask
+com/example/tp3_mmm/MainActivity.java
+ com.example.tp3_mmm.MainActivity
+viewModel/ClientListViewModel.java
+ viewModel.ClientListViewModel
+data/BasicRepository.java
+ data.BasicRepository
+com/example/tp3_mmm/databinding/ContentMainBinding.java
+ com.example.tp3_mmm.databinding.ContentMainBinding
+data/IRepository.java
+ data.IRepository
+data/Client.java
+ data.Client
+com/example/tp3_mmm/FirstFragment.java
+ com.example.tp3_mmm.FirstFragment
+ com.example.tp3_mmm.FirstFragment$1
+com/example/tp3_mmm/databinding/FragmentFirstBinding.java
+ com.example.tp3_mmm.databinding.FragmentFirstBinding
+com/example/tp3_mmm/databinding/ActivityMainBinding.java
+ com.example.tp3_mmm.databinding.ActivityMainBinding
+data/RoomRepository.java
+ data.RoomRepository
+ data.RoomRepository$1
+ data.RoomRepository$DeleteAllClientsAsyncTask
+ data.RoomRepository$DeleteClientAsyncTask
+ data.RoomRepository$InsertClientAsyncTask
+ui/ClientListAdapter.java
+ ui.ClientListAdapter
+ ui.ClientListAdapter$ClientHolder
+com/example/tp3_mmm/databinding/ClientItemBinding.java
+ com.example.tp3_mmm.databinding.ClientItemBinding
+com/example/tp3_mmm/databinding/FragmentSecondBinding.java
+ com.example.tp3_mmm.databinding.FragmentSecondBinding

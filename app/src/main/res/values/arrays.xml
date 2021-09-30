@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departements">
+        <item></item>
+        <item>Ille et Vilaine (35)</item>
+        <item>Vaucluse (84)</item>
+        <item>Indre et Loire (37)</item>
+        <item>Ain (01)</item>
+        <item>Haute Savoie (74)</item>
+        <item>Savoie (73)</item>
+    </string-array>
+</resources>

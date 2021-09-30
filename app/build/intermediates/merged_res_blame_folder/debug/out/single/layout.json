@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\TP3-MMM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\TP3-MMM\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\TP3-MMM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "E:\\TP3-MMM\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\TP3-MMM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "E:\\TP3-MMM\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "E:\\TP3-MMM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\client_item.xml",
+        "source": "E:\\TP3-MMM\\app\\src\\main\\res\\layout\\client_item.xml"
+    },
+    {
+        "merged": "E:\\TP3-MMM\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "E:\\TP3-MMM\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    }
+]
